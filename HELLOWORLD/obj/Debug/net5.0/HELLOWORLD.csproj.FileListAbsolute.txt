@@ -1,0 +1,16 @@
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.exe
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.deps.json
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.runtimeconfig.json
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.runtimeconfig.dev.json
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.dll
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\bin\Debug\net5.0\ref\HELLOWORLD.dll
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.pdb
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.csprojAssemblyReference.cache
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.AssemblyInfoInputs.cache
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.AssemblyInfo.cs
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.csproj.CoreCompileInputs.cache
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.dll
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\ref\HELLOWORLD.dll
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.pdb
+C:\Users\Ayyan Laptope\Desktop\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.genruntimeconfig.cache
